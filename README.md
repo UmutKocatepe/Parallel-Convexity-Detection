@@ -66,7 +66,4 @@ java ConvexKontrol
   4. Konsolda program çıktısı görünmelidir
 
 
-## Proje Tanıtım
-- https://www.youtube.com/
-
 >Bu proje Bursa Teknik Üniversitesi 2024-2025 Bahar Dönemi Paralel Programlama Dersi için gönderilmiştir.
